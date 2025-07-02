@@ -1,5 +1,5 @@
-# Gender-Detection-Machine-Learning-Model
-A gender detection model based on deep learning, created for the Comys Hackathon.
+# Face-Detection-Deep-Learning-Model
+A face detection model based on deep learning, created for the Comys Hackathon.
 
 
 
@@ -13,12 +13,12 @@ A gender detection model based on deep learning, created for the Comys Hackathon
 
 ###  Success Criteria:
 
-|                                                                                                                              | Condition |
-| ------------------------------------------------------------------------------------------------------------------------------ | --------- |
-| ✅ If the test image (or distorted version) *matches any image inside its true person folder* → *Label = 1 (Correct Match)* |           |
-| ❌ If it does *not match any image from its true folder* → *Label = 0 (Non-Match)*                                          |           |
+|                                                                                                                             
+| ------------------------------------------------------------------------------------------------------------------------------
+| ✅ If the test image (or distorted version) *matches any image inside its true person folder* → *Label = 1 (Correct Match)* 
+| ❌ If it does *not match any image from its true folder* → *Label = 0 (Non-Match)*                                          
 
----
+
 
 ## 📌 Dataset Structure:
 

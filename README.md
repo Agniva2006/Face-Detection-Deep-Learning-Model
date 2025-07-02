@@ -52,7 +52,7 @@ A face detection model based on deep learning, created for the Comys Hackathon.
 |  1                                                               | *Use FaceNet (Pretrained on VGGFace2)* to extract face embeddings             |
 |  2                                                               | *Build reference embeddings for all images* from both train and val folders   |
 |  3                                                               | For each validation image:                                                      |
-| → *Compare its embedding with all embeddings in its own folder* |                                                                                 |
+  → *Compare its embedding with all embeddings in its own folder* |                                                                                 |
 | → Calculate *cosine similarity*                                 |                                                                                 |
 |  4                                                               | If similarity ≥ threshold (0.6 used), predict *Label = 1 (Match), else **0* |
 |  5                                                               | Output validation accuracy and per-image prediction logs                        |

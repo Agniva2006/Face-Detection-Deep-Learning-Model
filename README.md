@@ -4,8 +4,8 @@ A face detection model based on deep learning, created for the Comys Hackathon.
 
 
 # 🚀 Hackathon Task B: Face Recognition (Folder-wise Matching)
-# pls download task 2 ipynb notebook due to its huge size
-# weights and biases for preatrained vgg model
+#pls download task 2 ipynb notebook due to its huge size
+#weights and biases for preatrained vgg model
 ---
 
 ## 📌 Task Objective:

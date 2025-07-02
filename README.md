@@ -1,5 +1,5 @@
 # Face-Detection-Deep-Learning-Model
-A face detection model based on deep learning, created for the Comys Hackathon.
+A face detection model based on deep learning, created for the Comsys Hackathon.
 
 
 

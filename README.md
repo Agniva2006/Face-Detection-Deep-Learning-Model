@@ -15,7 +15,7 @@ A face detection model based on deep learning, created for the Comys Hackathon.
 
 |                                                                                                                             
 | ------------------------------------------------------------------------------------------------------------------------------
-| ✅ If the test image (or distorted version) *matches any image inside its true person folder* → *Label = 1 (Correct Match)* 
+                         | ✅ If the test image (or distorted version) *matches any image inside its true person folder* → *Label = 1 (Correct Match)* 
 | ❌ If it does *not match any image from its true folder* → *Label = 0 (Non-Match)*                                          
 
 

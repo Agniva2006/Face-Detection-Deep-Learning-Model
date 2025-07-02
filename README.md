@@ -63,7 +63,7 @@ A face detection model based on deep learning, created for the Comys Hackathon.
 | ------------------------- | ---------------------------------------------------------------------- |
 | Final Validation Accuracy |  *1.0000 (3376 / 3376)*                                             |
 | Method                    | *Folder-wise matching with FaceNet embeddings and Cosine Similarity* |
-
+# for this dataset,model has achiveved 100% accuracy and correctly tell source of the dataset.at the end of the code.. an example is give...this project can be done 4 ways.. if found but takes a lot time to train...
 ---
 
 ## 📌 How to Run:

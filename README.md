@@ -60,7 +60,11 @@
 |  5                                                               | Output validation accuracy and per-image prediction logs                        |
 
 ---
+## 📌 Innovations / Notes:
 
+* Used zero-shot learning by leveraging pretrained FaceNet embeddings.
+* Handles distorted inputs robustly using cosine similarity instead of classification.
+* Avoids overfitting due to no retraining and supports scalable identity matching.
 ## 📌 Result:
 
 | Metric                    | Value                                                                  |
@@ -77,7 +81,6 @@
 1.  Upload dataset to Google Colab (train + val folders)
 2.  Run FaceNet Cosine Matching notebook
 3.  The notebook will:
-
    * Build reference embeddings
    * Evaluate val set
    * Print image-wise similarity and prediction

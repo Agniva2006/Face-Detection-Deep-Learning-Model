@@ -36,6 +36,8 @@
         imageY.jpg
        / distortedY/
 
+<pre> ``` /train/ /Person_1/ image1.jpg /distorted1/ /Person_2/ image2.jpg /distorted2/ /val/ /Person_101/ imageX.jpg /distortedX/ /Person_102/ imageY.jpg /distortedY/ ``` </pre>
+
 ***distoted folder contains blurred,foggy,lowlight,noisy,rainy,resized,sunny images
 * Each folder = 1 unique individual
   Val contains persons not present in train

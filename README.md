@@ -11,10 +11,10 @@
 
 > *Given a test face image (real or distorted), match it against its correct person folder.*
 
-###  Success Criteria:
+### <ins>Success Criteria<ins>:
 
-| ✅ If the test image (or distorted version) *matches any image inside its true person folder* → *Label = 1 (Correct Match)* 
-| ❌ If it does *not match any image from its true folder* → *Label = 0 (Non-Match)*                                          
+* ✅ If the test image (or distorted version) *matches any image inside its true person folder* → *Label = 1 (Correct Match)* 
+* ❌ If it does *not match any image from its true folder* → *Label = 0 (Non-Match)*                                          
 
 
 

@@ -16,7 +16,7 @@
 * ✅ If the test image (or distorted version) *matches any image inside its true person folder* → *Label = 1 (Correct Match)* 
 * ❌ If it does *not match any image from its true folder* → *Label = 0 (Non-Match)*                                          
 
-
+---
 
 ## 📌 Dataset Structure:
 
@@ -65,6 +65,7 @@
 * Used zero-shot learning by leveraging pretrained FaceNet embeddings.
 * Handles distorted inputs robustly using cosine similarity instead of classification.
 * Avoids overfitting due to no retraining and supports scalable identity matching.
+---
 ## 📌 Result:
 
 | Metric                    | Value                                                                  |

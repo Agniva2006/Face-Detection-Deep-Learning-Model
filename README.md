@@ -21,6 +21,9 @@
 ## 📌 Dataset Structure:
 
 
+
+
+```plaintext
 /train/
     /Person_1/
         image1.jpg
@@ -34,9 +37,8 @@
         /distortedX/
     /Person_102/
         imageY.jpg
-       / distortedY/
-
-
+        /distortedY/
+```
 
 ***distoted folder contains blurred,foggy,lowlight,noisy,rainy,resized,sunny images
 * Each folder = 1 unique individual

@@ -9,13 +9,13 @@
 
 ## 📌 Task Objective:
 
-> *Given a test face image (real or distorted), match it against its correct person folder.*
+> *Given a test face image (real or distorted), match it against its correct person folder..*
 
 ### Success Criteria:
 
 * ✅ If the test image (or distorted version) *matches any image inside its true person folder* → *Label = 1 (Correct Match)* 
 * ❌ If it does *not match any image from its true folder* → *Label = 0 (Non-Match)*                                          
-
+*At the end we give an image called mbappe.png for testing and it works*
 ---
 
 ## 📌 Dataset Structure:
@@ -74,7 +74,7 @@
 | Method                    | *Folder-wise matching with FaceNet embeddings and Cosine Similarity* |
 
 > NOTE :- For this dataset, model has achiveved 100% accuracy and correctly tells source of the dataset. At the end of the code, an example is given; This project can be done 4 ways.. if found but takes a lot time to train...
-
+*At the end we give an image called mbappe.png for testing and it works*
 ---
 
 ## 📌 How to Run:
